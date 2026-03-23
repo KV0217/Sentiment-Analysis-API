@@ -38,4 +38,4 @@ uvicorn main:app --reload
 FastAPI · TF-IDF · Scikit-learn · Docker · Render
 
 ## Related
-- Analysis notebook: [Sentiment-Analysis](https://github.com/KV0217/sentiment-analysis)
+- Analysis notebook: [Sentiment-Analysis](https://github.com/KV0217/sentiment-analysis-)
